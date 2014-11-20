@@ -107,7 +107,7 @@ h1, h2, h3, h4 {
 
 
 body {
-	font-family: 'Franklin Gothic Book';
+	font-family: 'ITCFranklinGothicW01-Bk_812647';
 	font-size: 14pt;
 }
 
@@ -123,26 +123,26 @@ font-family:'ITCFranklinGothicW01-Dm_812668';
 @import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=8fa9a209-bf89-4a2d-a834-3bf20b2ddfb6");
 @font-face{
 font-family:"FranklinGothicW01-No.2R";
-src:url("../fonts/c983a03b-05e8-46c5-b59c-924410bd5eab.eot?#iefix");
-src:url("../fonts/c983a03b-05e8-46c5-b59c-924410bd5eab.eot?#iefix") format("eot"),url("../fonts/8522efc0-24be-4e50-a366-c8979d025fea.woff") format("woff"),url("../fonts/58e1bd90-7298-401a-a712-1d4ce11e060b.ttf") format("truetype"),url("../fonts/3689b002-6748-4287-8d3b-c2fa42263656.svg#3689b002-6748-4287-8d3b-c2fa42263656") format("svg");
+src:url("//pflag.org/super_secret_template/fonts/c983a03b-05e8-46c5-b59c-924410bd5eab.eot?#iefix");
+src:url("//pflag.org/super_secret_template/fonts/c983a03b-05e8-46c5-b59c-924410bd5eab.eot?#iefix") format("eot"),url("//pflag.org/super_secret_template/fonts/8522efc0-24be-4e50-a366-c8979d025fea.woff") format("woff"),url("//pflag.org/super_secret_template/fonts/58e1bd90-7298-401a-a712-1d4ce11e060b.ttf") format("truetype"),url("//pflag.org/super_secret_template/fonts/3689b002-6748-4287-8d3b-c2fa42263656.svg#3689b002-6748-4287-8d3b-c2fa42263656") format("svg");
 }
 @font-face{
 font-family:"FranklinGothicW01-Cond";
-src:url("../fonts/d534f828-e70e-44ad-9256-0063bfd76f53.eot?#iefix");
-src:url("../fonts/d534f828-e70e-44ad-9256-0063bfd76f53.eot?#iefix") format("eot"),url("../fonts/54b4b724-8acf-4931-ac8c-1df0c3fd7f2c.woff") format("woff"),url("../fonts/273eb8b2-62ff-40b0-aff6-46376431eae1.ttf") format("truetype"),url("../fonts/45a74047-2fa0-4ddf-be6b-0cdbd7645f60.svg#45a74047-2fa0-4ddf-be6b-0cdbd7645f60") format("svg");
+src:url("//pflag.org/super_secret_template/fonts/d534f828-e70e-44ad-9256-0063bfd76f53.eot?#iefix");
+src:url("//pflag.org/super_secret_template/fonts/d534f828-e70e-44ad-9256-0063bfd76f53.eot?#iefix") format("eot"),url("//pflag.org/super_secret_template/fonts/54b4b724-8acf-4931-ac8c-1df0c3fd7f2c.woff") format("woff"),url("//pflag.org/super_secret_template/fonts/273eb8b2-62ff-40b0-aff6-46376431eae1.ttf") format("truetype"),url("//pflag.org/super_secret_template/fonts/45a74047-2fa0-4ddf-be6b-0cdbd7645f60.svg#45a74047-2fa0-4ddf-be6b-0cdbd7645f60") format("svg");
 }
 @font-face{
 font-family:"ITCFranklinGothicW01-Bk_812647";
-src:url("../fonts/03dda592-ab39-4f26-9535-fdea194854cf.eot?#iefix");
-src:url("../fonts/03dda592-ab39-4f26-9535-fdea194854cf.eot?#iefix") format("eot"),url("../fonts/41c174b1-68c1-41b7-a19f-5ec80929b115.woff") format("woff"),url("../fonts/06d99598-12aa-461b-b57e-81a137da1b9f.ttf") format("truetype"),url("../fonts/427cca04-e0ee-4395-a5d3-b7d45feeff62.svg#427cca04-e0ee-4395-a5d3-b7d45feeff62") format("svg");
+src:url("//pflag.org/super_secret_template/fonts/03dda592-ab39-4f26-9535-fdea194854cf.eot?#iefix");
+src:url("//pflag.org/super_secret_template/fonts/03dda592-ab39-4f26-9535-fdea194854cf.eot?#iefix") format("eot"),url("//pflag.org/super_secret_template/fonts/41c174b1-68c1-41b7-a19f-5ec80929b115.woff") format("woff"),url("//pflag.org/super_secret_template/fonts/06d99598-12aa-461b-b57e-81a137da1b9f.ttf") format("truetype"),url("//pflag.org/super_secret_template/fonts/427cca04-e0ee-4395-a5d3-b7d45feeff62.svg#427cca04-e0ee-4395-a5d3-b7d45feeff62") format("svg");
 }
 @font-face{
 font-family:"ITCFranklinGothicW01-Dm_812668";
-src:url("../fonts/498d8f5c-6dfe-4a07-9fdf-321bcc11909c.eot?#iefix");
-src:url("../fonts/498d8f5c-6dfe-4a07-9fdf-321bcc11909c.eot?#iefix") format("eot"),url("../fonts/08fe22ab-0517-4203-bcc9-1ba2ca45f40c.woff") format("woff"),url("../fonts/6adc2e3a-d0c4-4c48-ba68-91b4107515d7.ttf") format("truetype"),url("../fonts/426ce955-d5bd-4a77-b077-402088f77e65.svg#426ce955-d5bd-4a77-b077-402088f77e65") format("svg");
+src:url("//pflag.org/super_secret_template/fonts/498d8f5c-6dfe-4a07-9fdf-321bcc11909c.eot?#iefix");
+src:url("//pflag.org/super_secret_template/fonts/498d8f5c-6dfe-4a07-9fdf-321bcc11909c.eot?#iefix") format("eot"),url("//pflag.org/super_secret_template/fonts/08fe22ab-0517-4203-bcc9-1ba2ca45f40c.woff") format("woff"),url("//pflag.org/super_secret_template/fonts/6adc2e3a-d0c4-4c48-ba68-91b4107515d7.ttf") format("truetype"),url("//pflag.org/super_secret_template/fonts/426ce955-d5bd-4a77-b077-402088f77e65.svg#426ce955-d5bd-4a77-b077-402088f77e65") format("svg");
 }
 @font-face{
 font-family:"ITCFranklinGothicW01-Dm_812677";
-src:url("../fonts/05bfbc51-0c0b-440a-8a25-45b86f0289d5.eot?#iefix");
-src:url("../fonts/05bfbc51-0c0b-440a-8a25-45b86f0289d5.eot?#iefix") format("eot"),url("../fonts/b547d31d-69fc-40d6-8013-e9b6f0b38df0.woff") format("woff"),url("../fonts/8e90e5d2-659a-4b9f-b68a-8ae72539e7b4.ttf") format("truetype"),url("../fonts/125eafff-7b5a-4c56-8a3a-d3fe11d8c3cc.svg#125eafff-7b5a-4c56-8a3a-d3fe11d8c3cc") format("svg");
+src:url("//pflag.org/super_secret_template/fonts/05bfbc51-0c0b-440a-8a25-45b86f0289d5.eot?#iefix");
+src:url("//pflag.org/super_secret_template/fonts/05bfbc51-0c0b-440a-8a25-45b86f0289d5.eot?#iefix") format("eot"),url("//pflag.org/super_secret_template/fonts/b547d31d-69fc-40d6-8013-e9b6f0b38df0.woff") format("woff"),url("//pflag.org/super_secret_template/fonts/8e90e5d2-659a-4b9f-b68a-8ae72539e7b4.ttf") format("truetype"),url("//pflag.org/super_secret_template/fonts/125eafff-7b5a-4c56-8a3a-d3fe11d8c3cc.svg#125eafff-7b5a-4c56-8a3a-d3fe11d8c3cc") format("svg");
 }
