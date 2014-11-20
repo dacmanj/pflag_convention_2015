@@ -1,14 +1,17 @@
 #logo {
-	height: 288px;
-	width: 288px;
+	height: 250px;
+	width: 250px;
+}
+
+hr {
+    border-style: inset;
+    border-color: #62006e;
+    border-width: 1px;	
 }
 
 #logo-header hr {
     display: block;
     margin-top: 125px;
-    border-style: inset;
-    border-color: #62006e;
-    border-width: 1px;
 }
 
 /* Large desktop */
